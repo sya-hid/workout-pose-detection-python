@@ -15,6 +15,6 @@
 
 ## Preview
 <p align="middle">
-<img src="posedetection-2-ezgif.com-video-to-gif-converter.gif" width="200">
+<img src="posedetection-2-ezgif.com-video-to-gif-converter.gif" width="480">
 </p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.workout-pose-detection-python"/>  
